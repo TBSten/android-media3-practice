@@ -2,4 +2,6 @@
 
 ExoPlayerで適当な動画を表示するサンプルです。
 
-![./docs/demo.mp4](./docs/demo.mp4)
+https://github.com/user-attachments/assets/ab19d777-8891-4e19-b38a-aaeb6b790af7
+
+
